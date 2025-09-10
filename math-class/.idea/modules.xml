@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculatingCircumference/CalculatingCircumference.iml" filepath="$PROJECT_DIR$/CalculatingCircumference/CalculatingCircumference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatingHypotenuse/CalculatingHypotenuse.iml" filepath="$PROJECT_DIR$/CalculatingHypotenuse/CalculatingHypotenuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/math-class.iml" filepath="$PROJECT_DIR$/.idea/math-class.iml" />
+    </modules>
+  </component>
+</project>
