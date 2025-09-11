@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/string-methods.iml" filepath="$PROJECT_DIR$/.idea/string-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../substrings/substrings.iml" filepath="$PROJECT_DIR$/../substrings/substrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
