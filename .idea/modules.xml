@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuizGame/QuizGame.iml" filepath="$PROJECT_DIR$/QuizGame/QuizGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.iml" filepath="$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WriteFiles/WriteFiles.iml" filepath="$PROJECT_DIR$/WriteFiles/WriteFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-beginner-course.iml" filepath="$PROJECT_DIR$/java-beginner-course.iml" />
     </modules>
   </component>
