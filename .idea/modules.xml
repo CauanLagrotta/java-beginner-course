@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberGuressingGame/NumberGuressingGame.iml" filepath="$PROJECT_DIR$/NumberGuressingGame/NumberGuressingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverloadedConstructors/OverloadedConstructors.iml" filepath="$PROJECT_DIR$/OverloadedConstructors/OverloadedConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverloadedMethods/OverloadedMethods.iml" filepath="$PROJECT_DIR$/OverloadedMethods/OverloadedMethods.iml" />
