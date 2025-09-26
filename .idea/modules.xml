@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aggregation/Aggregation.iml" filepath="$PROJECT_DIR$/Aggregation/Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlarmClock/AlarmClock.iml" filepath="$PROJECT_DIR$/AlarmClock/AlarmClock.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/BankingProgram/BankingProgram.iml" filepath="$PROJECT_DIR$/BankingProgram/BankingProgram.iml" />
